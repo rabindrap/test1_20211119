@@ -1,0 +1,2 @@
+New Branches
+The above example simultaneously creates and checks out . The -b option is a convenience flag that tells Git to run git branch before running git checkout.
